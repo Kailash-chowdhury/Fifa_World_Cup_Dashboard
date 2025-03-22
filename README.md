@@ -1,7 +1,7 @@
 # Fifa_World_Cup_Dashboard
 This repository contains a Power BI dashboard for visualizing World Cup data. The dashboard provides insights into key statistics, team performances, and historical trends.
 
-The Power BI dashboard provides an interactive and comprehensive analysis of the FIFA World Cup, presenting key insights through various visualizations.
+## The Power BI dashboard provides an interactive and comprehensive analysis of the FIFA World Cup, presenting key insights through various visualizations.
 
 ## Yearly Trend
 A dedicated section visualizes the yearly trend of the FIFA World Cup, enabling users to track its progression over time.
@@ -22,3 +22,9 @@ A map visualization represents the attendance figures for different countries, a
 The dashboard includes intuitive filtering options, allowing users to dynamically explore data by selecting specific categories, countries, or time periods for a customized analysis.
 
 This Power BI dashboard is designed to provide an insightful and engaging experience, enabling users to uncover key trends and patterns in FIFA World Cup history.
+
+## BI Dashboard: <a href= "https://github.com/Kailash-chowdhury/Fifa_World_Cup_Dashboard/blob/main/World%20Cup%20Dashboard.pbix">Dataset</a>
+## Raw Dataset: <a href= "https://github.com/Kailash-chowdhury/Fifa_World_Cup_Dashboard/blob/main/WorldCupMatches.csv">Dataset</a>
+                <a href= "https://github.com/Kailash-chowdhury/Fifa_World_Cup_Dashboard/blob/main/WorldCupPlayers.csv">Dataset</a>
+                <a href= "https://github.com/Kailash-chowdhury/Fifa_World_Cup_Dashboard/blob/main/WorldCups.csv">Dataset</a>
+## Dashboard Preview:![Screenshot (97)](https://github.com/user-attachments/assets/0bd7dbe7-e5fa-48cc-b34c-315d379d9e63)
